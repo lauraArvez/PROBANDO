@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/example/demojar/" kind="src" path="demojar/src/main/java"/>
+	<classpathentry kind="src" path="demojar/src/main/java/com/example/demojar"/>
+	<classpathentry kind="src" path="demojar/src/test/java"/>
+	<classpathentry kind="lib" path="demojar/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="demojar/target/classes"/>
+</classpath>
